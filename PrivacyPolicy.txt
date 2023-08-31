@@ -1,0 +1,4 @@
+Privacy policy for JumpClimb, a game on the Google Play store published by EdgyVeggie Games, owned by Joseph Sylvester
+Email: Chococowcake@gmail.com
+
+JumpClimb requires no additional permissions other than to be installed onto your android device. It does not store any user data aside from the high score which is stored locally in the app. This data is not uploaded anywhere.
